@@ -1,0 +1,16 @@
+# <nome-do-projeto>
+
+Resumo de uma linha do que o projeto faz.
+
+## Stack
+- Linguagem/framework e versões.
+
+## Comandos
+- Instalar: `...`
+- Typecheck: `...`
+- Testes: `...`
+
+## Convenções
+- Branch nova por mudança; PR contra `main`; nunca mergear o próprio PR.
+- Planos em `PLANO-<tema>.md` (gerados pelo agente `planejador`).
+- O que nunca fazer neste repo (ex.: comandos destrutivos de banco).
